@@ -1,5 +1,14 @@
 # unit-tests-Chisulo
 
+## My Unit Tests 
+### 27th - 2nd
+1. Comment unit Test https://github.com/COSC481W-2020Fall/cosc481w-581-2020-fall-datatitans/commit/66a9d5bc658643d78a2c0c80d277ac764a910403
+
+### 20th -26
+1. Main Loop bug Test
+2. Custom Scripts on AWS
+
+
 ## What functionalities your project has now?
 
 Website: 
@@ -52,8 +61,5 @@ Website:
 5. Search Bar Functionality
 
 
-## Unit Test(s) I'm working on
-1. Main Loop bug Test
-2. Custom Scripts on AWS
 
 
