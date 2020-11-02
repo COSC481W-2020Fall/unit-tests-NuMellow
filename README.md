@@ -51,6 +51,7 @@ Website:
 4. Select graph type
 5. View about us page
 6. View blog posts
+7. Commentfeature
 
 
 ## Unit Test List
@@ -59,6 +60,8 @@ Website:
 3. Running of custom scripts on AWS
 4. Main loop bug 
 5. Search Bar Functionality
+6. Adding Comments
+7. Chart Test
 
 
 
